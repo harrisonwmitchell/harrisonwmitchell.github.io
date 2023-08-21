@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-  1. "[Migration and Resilience during a Global Crisis](/files/Paper_Migration_Resilience.pdf)" (with many co-authors)\ *European Economic Review* 158 (Sep): 104524 (2023)
+  1. "[Migration and Resilience during a Global Crisis](/files/Paper_Migration_Resilience.pdf)" (with many co-authors) \*European Economic Review* 158 (Sep): 104524 (2023)
 
 ## Working Papers
 
