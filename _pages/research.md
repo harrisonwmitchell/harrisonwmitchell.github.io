@@ -16,5 +16,6 @@ author_profile: true
   2. "[Herder-Related Violence, Agricultural Work, and the Informal Sector as a Safety Net](/files/hrv_informality.pdf)" (with Jeffrey Bloem, Amy Damon, and David Francis)
 
 ## Works in Progress
-
-  1. "Land Inequality and Rural Structural Transformation: Evidence from India" (with Frances Lu and Manaswini Rao)
+  1. "The Dynamics of Market Access"
+  2. "Build it and They Will Modernize: Structural Change and Village Creation" (STEG PhD Research Grant)
+  3. "Land Inequality and Rural Structural Transformation: Evidence from India" (with Frances Lu and Manaswini Rao)
