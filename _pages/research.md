@@ -19,3 +19,4 @@ author_profile: true
   1. "The Dynamics of Market Access"
   2. "Build it and They Will Modernize: Structural Change and Village Creation" (STEG PhD Research Grant)
   3. "Land Inequality and Rural Structural Transformation: Evidence from India" (with Frances Lu and Manaswini Rao)
+  4. "The Global Value of Cities" (with Aakash Bhalothia, Gavin Engelstad, and Gaurav Khanna)
