@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Department of Economics, University of California San Diego. My primary fields are Trade, Macroeconomics, and Development.
+I am a PhD candidate at the Department of Economics, University of California San Diego. My primary fields are Trade, Macroeconomics, and Development.
 
 My C.V. is [here](/files/Harrison_Mitchell_CV.pdf).
 
