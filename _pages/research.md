@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-  1. "[Herder-Related Violence, Agricultural Work, and the Informal Sector as a Safety Net](/files/hrv_informality.pdf)" (with Jeffrey Bloem, Amy Damon, and David Francis) *Journal of Development Economics* 176, 2025 
+  1. "[Herder-Related Violence, Labor Allocation, and the Gendered Response of Agricultural Households](https://www.sciencedirect.com/science/article/pii/S030438782500063X)" (with Jeffrey Bloem, Amy Damon, and David Francis) *Journal of Development Economics* 176, 2025 
   2. "[Migration and Resilience during a Global Crisis](/files/Paper_Migration_Resilience.pdf)" (with many co-authors)
   *European Economic Review* 158, 104524, 2023
 
