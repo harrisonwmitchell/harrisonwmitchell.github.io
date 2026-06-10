@@ -12,8 +12,8 @@ author_profile: true
   *European Economic Review* 158, 104524, 2023
 
 ## Working Papers
-  1. "[The Global Value of Cities](https://www.nber.org/system/files/working_papers/w34503/w34503.pdf)" (with Aakash Bhalothia, Gavin Engelstad, and Gaurav Khanna)
-  2. "[Delegation Risk and Implementation at Scale: Evidence from a Migration Loan Program in Bangladesh](/files/Paper_NLS_Evaluation.pdf)" (with Mushfiq Mobarak, Karim Naguib, Maira Emy Reimao, and Ashish Shenoy)
+  1. "[Delegation Risk and Implementation at Scale: Evidence from a Migration Loan Program in Bangladesh](/files/Paper_NLS_Evaluation.pdf)" (with Mushfiq Mobarak, Karim Naguib, Maira Emy Reimao, and Ashish Shenoy) Revise and resubmit, *Journal of Political Economy Microeconomics*
+  2. "[The Global Value of Cities](https://www.nber.org/system/files/working_papers/w34503/w34503.pdf)" (with Aakash Bhalothia, Gavin Engelstad, and Gaurav Khanna)
 
 
 ## Work in Progress
