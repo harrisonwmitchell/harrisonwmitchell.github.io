@@ -17,7 +17,7 @@ author_profile: true
 
 
 ## Work in Progress
-  1. "The Curse of Connectivity: Evidence from Indonesia's Village Resettlement Program"
+  1. "The Curse of Connectivity: Evidence from Village Resettlement in Indonesia"
   2. "Build it and They Will Modernize: Structural Change and Village Creation" (STEG PhD Research Grant)
   3. "Land Inequality and Rural Structural Transformation: Evidence from India" (with Frances Lu and Manaswini Rao)
   5. "Transportation Networks and Inter-Group Contact" (with Thomas Gautier, Gedeon Lim, and Alex Rothenberg)
