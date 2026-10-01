@@ -18,6 +18,8 @@ redirect_from:
     <p class="home-intro__role">PhD Candidate<br> Department of Economics, UC San Diego</p>
 
     <p><strong>I am on the 2026–2027 Economics Job Market.</strong></p>
+    <p class="jmp__label">Job Market Paper</p>
+    {% include jmp.html %}
 
     <p class="home-intro__bio">My primary fields are macroeconomics, development economics, and spatial economics.</p>
 
