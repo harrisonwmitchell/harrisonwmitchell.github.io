@@ -5,6 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
+## Job Market Paper
+
+  {% include jmp.html %}
+
 ## Publications
 
   1. "[Herder-Related Violence, Labor Allocation, and the Gendered Response of Agricultural Households](https://www.sciencedirect.com/science/article/pii/S030438782500063X)" (with Jeffrey Bloem, Amy Damon, and David Francis) *Journal of Development Economics* 176, 2025 
@@ -17,9 +21,8 @@ author_profile: true
 
 
 ## Work in Progress
-  1. "The Curse of Connectivity: Evidence from Village Resettlement in Indonesia"
-  2. "Build it and They Will Modernize: Structural Change and Village Creation" (STEG PhD Research Grant)
-  3. "Land Inequality and Rural Structural Transformation: Evidence from India" (with Frances Lu and Manaswini Rao)
-  5. "Transportation Networks and Inter-Group Contact" (with Thomas Gautier, Gedeon Lim, and Alex Rothenberg)
+  1. "Build it and They Will Modernize: Structural Change and Village Creation" (STEG PhD Research Grant)
+  2. "Land Inequality and Rural Structural Transformation: Evidence from India" (with Frances Lu and Manaswini Rao)
+  3. "Transportation Networks and Inter-Group Contact" (with Thomas Gautier, Gedeon Lim, and Alex Rothenberg)
 
 
