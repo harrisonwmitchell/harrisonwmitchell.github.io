@@ -107,3 +107,57 @@
     width: min(100%, 360px);
   }
 }
+
+/* Job market paper: linked title + collapsible abstract */
+  .jmp {
+    margin: 0 0 1.5rem;
+  }
+
+  .home-intro__content .jmp__label {
+    margin: 0 0 0.25rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: $gray;
+  }
+
+  .jmp .jmp__title,
+  .home-intro__content .jmp__title {
+    margin: 0 0 0.5rem;
+    font-weight: bold;
+  }
+
+  .jmp__abstract summary {
+    display: inline-block;
+    padding: 0.3em 0.9em;
+    border: 1px solid $light-gray;
+    border-radius: $border-radius;
+    font-family: $sans-serif;
+    font-size: 0.8rem;
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+  }
+
+  .jmp__abstract summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .jmp__abstract summary::after {
+    content: " \25BE";
+  }
+
+  .jmp__abstract[open] summary::after {
+    content: " \25B4";
+  }
+
+  .jmp__abstract summary:hover {
+    background-color: $lighter-gray;
+  }
+
+  .jmp__abstract p,
+  .home-intro__content .jmp__abstract p {
+    margin: 0.75rem 0 0;
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
