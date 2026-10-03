@@ -33,7 +33,7 @@ redirect_from:
 ## Publications
 
 - **[Herder-Related Violence, Labor Allocation, and the Gendered Response of Agricultural Households](https://www.sciencedirect.com/science/article/pii/S030438782500063X)** with Jeffrey Bloem, Amy Damon, and David Francis. *Journal of Development Economics* 176, 2025.
-- **[Migration and Resilience during a Global Crisis](/files/Paper_Migration_Resilience.pdf)** with many co-authors. *European Economic Review* 158, 104524, 2023.
+- **[Migration and Resilience during a Global Crisis](https://www.sciencedirect.com/science/article/pii/S0014292123001538)** with many co-authors. *European Economic Review* 158, 104524, 2023.
 
 ## Working Papers
 
@@ -42,8 +42,8 @@ redirect_from:
 
 ## Work in Progress
 
-- **Build it and They Will Modernize: Structural Change and Village Creation** STEG PhD Research Grant.
-- **Land Inequality and Rural Structural Transformation: Evidence from India** with Frances Lu and Manaswini Rao.
+- **The Evolution of Inequality** STEG PhD Research Grant.
+- **Land Inequality and Occupational Sorting in India** with Manaswini Rao and Frances Lu.
 - **Transportation Networks and Inter-Group Contact** with Thomas Gautier, Gedeon Lim, and Alex Rothenberg.
 
 </div>
