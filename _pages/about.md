@@ -31,13 +31,12 @@ redirect_from:
 <div class="home-research" id="research" markdown="1">
 
 ## Publications
-
+- **[Delegation Risk and Implementation at Scale: Evidence from a Migration Loan Program in Bangladesh](/files/Paper_NLS_Evaluation.pdf)** with Mushfiq Mobarak, Karim Naguib, Maira Emy Reimao, and Ashish Shenoy. Accepted, *Journal of Political Economy Microeconomics*.
 - **[Herder-Related Violence, Labor Allocation, and the Gendered Response of Agricultural Households](https://www.sciencedirect.com/science/article/pii/S030438782500063X)** with Jeffrey Bloem, Amy Damon, and David Francis. *Journal of Development Economics* 176, 2025.
 - **[Migration and Resilience during a Global Crisis](https://www.sciencedirect.com/science/article/pii/S0014292123001538)** with many co-authors. *European Economic Review* 158, 104524, 2023.
 
 ## Working Papers
 
-- **[Delegation Risk and Implementation at Scale: Evidence from a Migration Loan Program in Bangladesh](/files/Paper_NLS_Evaluation.pdf)** with Mushfiq Mobarak, Karim Naguib, Maira Emy Reimao, and Ashish Shenoy. Revise and resubmit, *Journal of Political Economy Microeconomics*.
 - **[The Global Value of Cities](https://www.nber.org/system/files/working_papers/w34503/w34503.pdf)** with Aakash Bhalothia, Gavin Engelstad, and Gaurav Khanna.
 
 ## Work in Progress
